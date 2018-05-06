@@ -1,0 +1,12 @@
+name: Boston_Crime_Data
+title: Boston_Crime_Data
+username:
+account: nshelch
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 337778
+bundleId: 1358265
+url: https://nshelch.shinyapps.io/Boston_Crime_Data/
+when: 1525585159.00541
+asMultiple: FALSE
+asStatic: FALSE
